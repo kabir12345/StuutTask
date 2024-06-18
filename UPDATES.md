@@ -7,3 +7,6 @@
 ## To take this project to production
 - we can containerise the application using Dockers to deploy on our server. Use Kubernetes to auto scale when requiremnts surge or downgrades.
 - provide and API end point for other developers to request the data easily.
+
+## Notes
+- Had to change the API port to 5005 since another service was occupying my port 5000

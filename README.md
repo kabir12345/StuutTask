@@ -1,3 +1,4 @@
+Updates added to [UPDATES.md](UPDATES.md)
 # Stuut Fullstack Interview
 
 ## Overview
